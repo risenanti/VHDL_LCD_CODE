@@ -1,0 +1,1 @@
+This is code to display text on a LCD Screen in VHDL. It was tested on an Altera DE2 Board
